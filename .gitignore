@@ -1,0 +1,12 @@
+
+.venv/
+__pycache__/
+*.pyc
+
+dataset/
+models/
+attendance.csv
+attendance_old.csv
+students.json
+
+.env
